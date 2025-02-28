@@ -1,7 +1,5 @@
 # Starbucks-segmentation
 
-# Disaster_response_pipeline
-
 ## Table of contents
 - [Background](#Background)
 - [Installation](#Installation)
