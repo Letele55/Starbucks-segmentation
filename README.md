@@ -32,4 +32,5 @@ Females are very particular having personalised message because they buy off emo
 
 ## Licensing,Authors,Acknowledgements
 I would like to thank Udacity for making this project that made me learn more about data science
+You can read more about the analysis on my blog post [here](https://medium.com/@letelelimpho3/starbuck-recommendation-segmentation-3112abdedd2a).
 
